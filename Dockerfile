@@ -1,4 +1,4 @@
-FROM fusuf/whatsasena:latest
+FROM fusuf/whatsasena:lates
 
 RUN git clone https://github.com/maxbotfamily/Panther-sl /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
